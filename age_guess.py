@@ -14,4 +14,8 @@ def guess_age():
         else:
             print("Rats...")
    
-guess_age()
+def main():
+    guess_age()
+
+if __name__ == "__main__":
+    main()
