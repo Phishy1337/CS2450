@@ -17,3 +17,12 @@ Subject: Git, C++, vim
     As far as Software Engineering class goes, nothing to major has happened yet.  I am certainly excited to learn the process
     behind writing good software, I've tried making side projects and had I learned the process beforehand I think they would've
     turned out a bit better.
+
+Date: 2/5/26
+Subject: Flask errors, algorithms, math
+
+    I gave myself proof of how useless AI can be sometimes with our beginning Flask assignment.  I spent an hour working with ChatGPT, checking my ipv4 address, changing the name of my local host, changing startup settings - all of this to realize I had a syntax error in the app.run line.  I cannot believe chat missed something that small, but I feel rewarded that I found it myself after some investigation!
+
+    I am working on learning 6 different sorting algorithms currently; bubble, shaker, counting, quick, modified quick, and merge.  I've learned the first 3 quite well and can recreate them quickly from memory, but am struggling to remember certain aspects of quick and merge, usually off by 1 errors.  The plan is to crack a redbull and grind both from scratch with no help from google, which may take lots of trial and error but I believe will really strengthen my understanding.
+
+    I used to hate math.  Since coming to college for Computer Science, I've started to realize it's utility and how cool it can be.  In discrete math, we're solving problems that feel very real and useful for real life, like counting, combinations, etc.  My friend made a joke saying we need to figure out ever single combination of subway sandwich possible, and it's funny that I could mathematically do that now. 
