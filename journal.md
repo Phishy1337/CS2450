@@ -25,4 +25,24 @@ Subject: Flask errors, algorithms, math
 
     I am working on learning 6 different sorting algorithms currently; bubble, shaker, counting, quick, modified quick, and merge.  I've learned the first 3 quite well and can recreate them quickly from memory, but am struggling to remember certain aspects of quick and merge, usually off by 1 errors.  The plan is to crack a redbull and grind both from scratch with no help from google, which may take lots of trial and error but I believe will really strengthen my understanding.
 
-    I used to hate math.  Since coming to college for Computer Science, I've started to realize it's utility and how cool it can be.  In discrete math, we're solving problems that feel very real and useful for real life, like counting, combinations, etc.  My friend made a joke saying we need to figure out ever single combination of subway sandwich possible, and it's funny that I could mathematically do that now. 
+    I used to hate math.  Since coming to college for Computer Science, I've started to realize it's utility and how cool it can be.  In discrete math, we're solving problems that feel very real and useful for real life, like counting, combinations, etc.  My friend made a joke saying we need to figure out ever single combination of subway sandwich possible, and it's funny that I could mathematically do that now.
+
+Date: 2/12/26
+Subject: Clean code and codex AI
+
+    I am studying hard for a C++ test I have coming up, the biggest change I've made to the main branch is the makefile, as I kept having linker issues.  It's obvious now, but cleaning up my makefile code helped a lot with all my   errors.  I defined COMMON as all my common linked files, and throwing COMMON into the various makes makes it so much clearer, and I am spending far less time fixing linking issues
+
+    AI is really incredible, and hard to resist!  I pay for ChatGPT, which gets me access to codex - a CLI based AI agent with context.  I spent a long time debugging an error for this class (CS2450), and after having codex check it took 1 prompt and 1 line response to fix it.  I feel like my debugging skills may deteriorate if I keep using ai for errors I can't find quickly, so I need to come up with a plan for when I should and shouldn't use AI.  Maybe ask where bugs might be to push me along the right path?
+
+Date: 2/18/26
+Subject: Many tests, Flow fun
+
+    I have lots of tests this week - the one I am most worried about is Discrete Math.  Discrete math is a lot of fun, and it's pretty interesting to me, but it's hard!  I'll be studying lots in anticipation for that.
+
+    Making the flow charts for the tools being used and for user direction was actually pretty fun, and I can see myself doing this for personal projects in the future.  Having a visual really does help keep things in scope and know what needs to be done and for why.
+
+Date: 2/26/26
+Subject:
+
+Date:
+Subject:
