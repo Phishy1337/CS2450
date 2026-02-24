@@ -41,8 +41,14 @@ Subject: Many tests, Flow fun
 
     Making the flow charts for the tools being used and for user direction was actually pretty fun, and I can see myself doing this for personal projects in the future.  Having a visual really does help keep things in scope and know what needs to be done and for why.
 
-Date: 2/26/26
-Subject:
+Date: 2/24/26
+Subject: YouFace Presentations, Coding Fun, Vim adjustments
+
+    My team and I just finished presenting our YouFace project, "RoommateHub".  I think the design of our slides could've used some work, but overall I am really happy with how everybody presented!  I really do like our idea and think it could be useful, even outside of just a class project
+
+    This past Saturday, I spent a grand total of ~10 hours coding in C++ and and python and I'm starting to really enjoy coding, I'll finish an assignment and continue working out because I think I can improve it in some ways.  The goal now is to grow my passion and capacity for engineering, not just coding.  I want to be able to come up with a problem, and solve it in my own way rather than following instructions on assignments.  I think growing this skill will be far more useful in the job field, as well as in my personal life;  to be a good engineer I have to be a great programmer, so still working on developing that.
+
+    On the topic of becoming a great developer, I've been using Vim for all of my coding as of late.  I saw a post showing that 40% of developers in all markets use Vim, so I feel it's something I should at least know my way aronud.  It's a lot of fun learning all the different shortcuts for splitting screens, deleting lines or words, replacing;  My favorite being ":vert term", which splits my edited file in half and shows a terminal I can use for testing while I code.  I've also downloaded YouCompleteMe, which is a LSP or Language Server Protocol for including autocomplete for various languages, most importantly the C languages and Python.
 
 Date:
 Subject:
