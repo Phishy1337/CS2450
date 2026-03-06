@@ -50,5 +50,22 @@ Subject: YouFace Presentations, Coding Fun, Vim adjustments
 
     On the topic of becoming a great developer, I've been using Vim for all of my coding as of late.  I saw a post showing that 40% of developers in all markets use Vim, so I feel it's something I should at least know my way aronud.  It's a lot of fun learning all the different shortcuts for splitting screens, deleting lines or words, replacing;  My favorite being ":vert term", which splits my edited file in half and shows a terminal I can use for testing while I code.  I've also downloaded YouCompleteMe, which is a LSP or Language Server Protocol for including autocomplete for various languages, most importantly the C languages and Python.
 
+Date: 3/5/26
+Subject: Starting the project, Spring break!
+    My team and I have started working on our project, and Tuesday and Thursday have been very insightful and very fun.  This project is turning to something I'm doing for a class project into something I actually care about and want to turn into a useful useable project!  We have our login page and homepage mostly setup (with plans to adjust a lot), and it's looking really good I think;  We are going to need a database, and it sounds like after speaking with Jeff we will need to learn some MySQL or Postgres as tinyDB won't be enough.  This is exciting!!
+
+    Spring break is coming up, I'm really excited to see all my friends and family up north.  I likely won't update this journal during break, but I am thinking I will try to work on the project a bit!
+
+
+Date:
+Subject:
+Date:
+Subject:
+Date:
+Subject:
+Date:
+Subject:
+Date:
+Subject:
 Date:
 Subject:
