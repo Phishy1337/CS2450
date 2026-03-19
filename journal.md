@@ -57,8 +57,14 @@ Subject: Starting the project, Spring break!
     Spring break is coming up, I'm really excited to see all my friends and family up north.  I likely won't update this journal during break, but I am thinking I will try to work on the project a bit!
 
 
-Date:
-Subject:
+Date: 3/19
+Subject: Spring Break, AI Ethics, Test Results
+    Spring break was awesome!  I was planning on looking at some code work over break, but it was busier than I thought, and I ended up getting a new, much more reliable car!
+
+    We are covering ethics and AI, and it's pretty fascinating how close to AI is getting to conscious human thought.  Anthropic has stated they have an ethics committee on board to review whether their models are becoming conscious, and the video we watched in class covering AI blackmail and murder feels very sci-fi.  This is only the beginning.
+
+In happier news, I had a few tests before break, and getting my scores back, I recieved 100% on both!  A little unfortunate that I missed 1 question which would have earned me 105%, but I can't complain about a perfect score!
+
 Date:
 Subject:
 Date:
