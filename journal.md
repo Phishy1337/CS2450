@@ -65,8 +65,15 @@ Subject: Spring Break, AI Ethics, Test Results
 
 In happier news, I had a few tests before break, and getting my scores back, I recieved 100% on both!  A little unfortunate that I missed 1 question which would have earned me 105%, but I can't complain about a perfect score!
 
-Date:
-Subject:
+Date: 3/26
+Subject: Databases, Coding Competition, Dunning-Kruger
+    Me and my team have just completed the PostGreSQL database linked with an SSH tunnel to the Utah Tech servers!  This is a massive hurdle that we've overcome, and it's hard to think how much time we might've spent on this if we didn't have access to modern AI tools.  The things we can create in the time we do it really is amazing, and SCARY!
+
+    I decided very late that I want to take part of the coding competition that Utah Tech is holding on the 28th.  I've never done anything like this before, but I figure no matter how poor I may do it will still be a good experience.  Luckily, I have a teammate that I have a feeling will excel in this competition - he was a lead programmer for many years, and has taken part in these kinds of competitions in Korea.  Since he knows lots more than I do, he is helping me study and prepare.
+
+    Speaking of studying with Kim, the Dunning-Kruger effect is taking it's hold.  I felt pretty confident in my python coding abilities at the end of last year, but as more topics are introduced, the more I realize how little I actually know and how far I have to go to be a modern senior developer.  Topics like recursion, data structures like priority queues, buffers, architecture, coding for efficiency, and so much more are so vastly complicated compared to the basic things taught in CS1400.  I'm up for the challenge, and excited to look back someday thinking how little I knew!
+
+    
 Date:
 Subject:
 Date:
