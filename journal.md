@@ -74,11 +74,18 @@ Subject: Databases, Coding Competition, Dunning-Kruger
     Speaking of studying with Kim, the Dunning-Kruger effect is taking it's hold.  I felt pretty confident in my python coding abilities at the end of last year, but as more topics are introduced, the more I realize how little I actually know and how far I have to go to be a modern senior developer.  Topics like recursion, data structures like priority queues, buffers, architecture, coding for efficiency, and so much more are so vastly complicated compared to the basic things taught in CS1400.  I'm up for the challenge, and excited to look back someday thinking how little I knew!
 
     
-Date:
-Subject:
-Date:
-Subject:
-Date:
+Date: 4/2
+Subject: Steady progress, AI limitations
+    We're making steady progress on Roommate Hub.  Since the complexity of the assignment has blown up from what we originally planned, we're using lots of codex to help us build it efficiently, however I'm noticing that because we are doing things in an improvised way, we're leaving lots to be desired in terms of software engineering.  It makes me realize how important the initial steps of clearly defining what the software needs to do and how is, because none of us realized we would need a database and a server for active chatrooms and live updates until we started coding it.  If we had planned better, the codebase would likely look a lot cleaner, but it's been a good learning experience
+
+
+Date: 4/9
+Subject: Refactoring, CS grad statistics
+    One of our recent assignments was to refactor a few programs; tic-tac-toe, health insurance picker, and a class with an unnecessary parent-child relationship.  They were pretty fun, I was over confident after doing the class rebase, going into tic-tac-toe was substantially more difficult but it's good that I can see the issues and fix them without depending on AI entirely.
+
+    I've been nervous since I started doing CS about my career afterwards.  The current unemployment rate for CS grads is ~10% which is right around performance arts.  That being said, I also realized that UNDERemployment for the two are substantially different, with performance arts being around 65% undermeployed and CS being one of the lowest at 5%.  So as long as I can find the job, I can rest assured it'll be what I studied for 4 years!
+
+Date: 
 Subject:
 Date:
 Subject:
