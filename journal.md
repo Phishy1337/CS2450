@@ -85,7 +85,8 @@ Subject: Refactoring, CS grad statistics
 
     I've been nervous since I started doing CS about my career afterwards.  The current unemployment rate for CS grads is ~10% which is right around performance arts.  That being said, I also realized that UNDERemployment for the two are substantially different, with performance arts being around 65% undermeployed and CS being one of the lowest at 5%.  So as long as I can find the job, I can rest assured it'll be what I studied for 4 years!
 
-Date: 
-Subject:
+Date: 4/16
+Subject: Wrapping up
+    We're coming into finals for the semester, and while our RoommateHub website isn't exactly what I had invisioned (I tend to aim high for my goals), I am still really proud of what we have built.  It has majority of the features we had planned on implementing all while having to do stuff piece by piece on the way.  It feels like something I'll be proud to have on my github and to show to the class during presentation.
 Date:
 Subject:
